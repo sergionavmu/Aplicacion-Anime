@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rincon del Otaku</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="register">Don´t have an account?\n Register now</string>
+    <string name="search">Search anime</string>
+    <string name="favorito">My favorite anime</string>
+    <string name="bienvenido">¡Bienvenido al!</string>
+</resources>

@@ -1,0 +1,13 @@
+{
+  "name": "Juan Piece",
+  "description": "El Juan Piece es el tesoro",
+  "type": "TV",
+  "year": 1996,
+  "image": "edt69/images/27.jpg",
+  "originalName": "Juan Piece",
+  "rating": "16+",
+  "demography": "Seinen",
+  "genre": "Action, Action, Adventure",
+  "image2": "edt69/images/27b.jpg",
+  "active": true
+}

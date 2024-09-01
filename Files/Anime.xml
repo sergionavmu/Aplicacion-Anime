@@ -1,0 +1,1722 @@
+<database name="anime">
+    <!-- Table animes -->
+    <table name="animes">
+        <column name="id">1</column>
+        <column name="name">The Idaten Deities Know Only Peace</column>
+        <column name="description">Eight hundred years ago, terrifying demons threatened mankind's existence. On the brink of extinction, humans prayed to their gods, calling out for someone to save them. Emerging from these desperate pleas for salvation, battle deities known as the &quot;Idaten&quot; were born. Possessing unnatural strength and endurance, the Idaten managed to defeat the demons and an era of unprecedented peace was finally ushered in.
+            Having never encountered demons before, the present generation of Idaten knows nothing of the demon's brutality, but they have instead only lived a peaceful existence. Training under Rin, the only remaining Idaten from 800 years ago, the new Idaten find ways to survive in a time where they have seemingly outlived their usefulness. However, when the tyrannical Zoble Empire resurrects a demon, the misfit crop of gods are called to the battlefield against their natural enemy once more. </column>
+        <column name="type">TV</column>
+        <column name="year">2018</column>
+        <column name="image">edt69/images/1.jpg</column>
+        <column name="originalname">Heion Sedai no Idaten-tachi</column>
+        <column name="rating">17+</column>
+        <column name="demography">Seinen</column>
+        <column name="genre">Dark fantasy</column>
+        <column name="image2">edt69/images/1b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">2</column>
+        <column name="name">Sonny Boy</column>
+        <column name="description">El drama de ciencia ficción se centra en treinta y seis chicos y chicas. El 16 de agosto, a mitad de unas vacaciones de verano aparentemente interminables, el estudiante de tercer año de preparatoria Nagara, la misteriosa estudiante transferida Nozomi y compañeros de clase como Mizuho y Asakaze, son repentinamente transportados de su tranquila vida cotidiana a una escuela a la deriva en una dimensión alternativa. Deberán sobrevivir con los superpoderes que han despertado en su interior.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/2.jpg</column>
+        <column name="originalname">Sonny Boy</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Science fiction, Survival</column>
+        <column name="image2">edt69/images/2b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">3</column>
+        <column name="name">Mother of the Goddess’ Dormitory</column>
+        <column name="description">Koshi Nagumo is a 12-year-old boy who was abandoned by his broke father after their house caught on fire, leaving him to roam the streets penniless. He then one day, meets a girl named Mineru who finds him lying on the sidewalk. She takes him to a women’s college dormitory, one known for housing troublesome residents, and asks him to be their &quot;Dormitory Mother.&quot; Surrounded by older women and forced to deal with their idiosyncrasies, Koshi starts his new life!</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/3.jpg</column>
+        <column name="originalname">Megami-Ryou no Ryoubo-kun</column>
+        <column name="rating">12+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Harem, Comedy, Romance, Ecchi</column>
+        <column name="image2">edt69/images/3b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">4</column>
+        <column name="name">Night Head 2041</column>
+        <column name="description">In the year 2041, World War III has wiped out two-thirds of the human population, and in the newfound structure, the belief in any god or beyond-human entity is considered a preposterous notion. In order to prevent citizens from bearing possibly incriminating thoughts, the government has assembled a Special Weapon Enforcement division to capture and rehabilitate such believers.
+            The Kirihara brothers, Naoya and Naoto—who were hidden away from society by their captors for years to conceal their psychic abilities—were promised freedom once the world was ready to face their existence. Now, wandering in the appalling new societal climate where psychics are not welcome, the brothers find themselves on the run from the Enforcement's devoted operatives, Yuuya and Takuya Kuroki.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/4.jpg</column>
+        <column name="originalname">Night Head 2041</column>
+        <column name="rating">12+</column>
+        <column name="demography">Seinen</column>
+        <column name="genre">Science fiction, Supernatural,
+            Suspense</column>
+        <column name="image2">edt69/images/4b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">5</column>
+        <column name="name">Battle Game in 5 Seconds</column>
+        <column name="description">It was just a usual morning.
+            Akira Shiroyanagi, a high schooler who loves games and Konpeito (Japanese sweets), has suddenly been dragged into a battlefield by a mysterious girl who calls herself Mion. The participants are told that they are &quot;erased from the family register, involved in an experiment, and gained certain powers.&quot;
+            Akira is determined to win the game with his newfound powers and destroy the organization. Armed with a power no one expects and his &quot;brain&quot; skills, the new period of intelligence battle begins!</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/5.jpg</column>
+        <column name="originalname">Deatte 5-byou de Battle</column>
+        <column name="rating">17+</column>
+        <column name="demography">Shōnen</column>
+        <column name="genre">Supernatural, Action</column>
+        <column name="image2">edt69/images/5b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">6</column>
+        <column name="name">Love Live! Superstar!!</column>
+        <column name="description">Everyone has a dream they strive to achieve, and so does the musically talented Kanon Shibuya. However, due to her stage fright, Kanon fails to make it into Yuigaoka Girls' High School's music program and instead ends up in the general curriculum. Even though Kanon makes the conscious decision to quit music altogether, her classmate Tang Keke rekindles Kanon's passion for music with her own: a passion for school idols.
+            Although Keke and Kanon try to form a school idol group, their effort meets strong objections from Ren Hazuki, the daughter of the school's director. Even so, the girls soon visit the director, who allows them to set up their school idol club under one condition—they must win first place at the Yoyogi School Idol Festival.
+            The resilience of these aspiring idols is put to the test as they face the challenges that come their way. Throughout their journey, the girls make new friends and meet new members that join them to become the dazzling idols others can only imagine.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/6.jpg</column>
+        <column name="originalname">Love Live! SuperStar!!</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Music, Slice of Life</column>
+        <column name="image2">edt69/images/6b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">7</column>
+        <column name="name">D_Cide Traumerei the Animation</column>
+        <column name="description">When he was little, Ryuuhei Oda witnessed the death of his caring older brother, along with a mysterious mark that was left near his body. Now a second-year high school student, the outgoing and impulsive young boy spends his days doing what he loves most—kickboxing.
+            One night on his way home, a peculiar creature bites Ryuuhei's leg and causes him to have a strange dream filled with odd entities. When he is attacked the next day by the same creatures in the real world, Jessica Clayborn and Aruto Fushibe come to his rescue, claiming that Ryuuhei is their new recruit.
+            Faced with an imminent threat, Jessica urges a confused Ryuuhei to transform into a &quot;knocker-up,&quot; a person with the ability to confront the monsters hailing from the dreamscape. Using his talent for kickboxing to his advantage, Ryuuhei awakens his powers to save the city, only to come across a familiar mark—a mark that he could never forget.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/7.jpg</column>
+        <column name="originalname">D_Cide Traumerei the Animation</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Action, Drama, Fantasy</column>
+        <column name="image2">edt69/images/7b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">8</column>
+        <column name="name">I’m Standing on a Million Lives Season 2</column>
+        <column name="description">Once again, the Game Master's world of quests unexpectedly pulls in Yuusuke Yotsuya and the rest of this old team. Accompanied by the newest addition, Keita Torii, the team reunites with Kahabell, still unaware of their actions' impact on this world.
+            After bidding Kahabell farewell, the team sets out on their newly appointed quest—an offering of a Jiffon Buffalo at Vaikdamnia on Jiffon Island. However, as their journey to the island commences, the team shortly finds that the quest is not as simple as it initially seemed.
+            In fact, the island is terrorized by orcs that have made a deal with its inhabitants: instead of devouring the islanders, the orcs will be granted buffalo. With the growing shortage of buffalo, the annual Vaikdamnia festival cannot proceed. But, given the importance of the team's quest, they are left with the obvious choice—rid the island of the orcs and save the islanders.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/8.jpg</column>
+        <column name="originalname">100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Drama, Fantasy</column>
+        <column name="image2">edt69/images/8b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">9</column>
+        <column name="name">Meikyuu Black Company</column>
+        <column name="description">After working tirelessly toward his goal of a self-sustainable NEET lifestyle, Kinji Ninomiya has finally achieved his dreams. Now looking down on common folk commuting during a typhoon from the penthouse of one of his apartment buildings, Kinji gets ready to start his new, slothful life. However, all of his hard work goes to waste when a portal appears beneath him from out of nowhere.
+            Teleported to another world, Kinji is forced to work for a mining company that focuses solely on profits and has no care whatsoever for the safety and well-being of its employees. Refusing to live in such conditions, he begins devising plans to get rich quickly, building connections with others in this new world and making his best efforts to escape the stringent corporate life. Will Kinji be able to overcome his restraints and attain financial freedom once more?
+        </column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/9.jpg</column>
+        <column name="originalname">The Dungeon of Black Company </column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Comedy, Fantasy</column>
+        <column name="image2">edt69/images/9b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">10</column>
+        <column name="name">The Aquatope on White Sand </column>
+        <column name="description">After leaving her idol career behind, Fuuka Miyazawa finds herself on a spontaneous flight to Okinawa instead of returning home to her pity party in Morioka. Bearing a heavy heart and nowhere to go, she aimlessly wanders around the area until she stumbles upon Gama Gama Aquarium—an aging aquarium on the verge of closing down.
+            With a lack of visitors and costly but necessary repairs needed to keep its doors open, the director is faced with shutting down the establishment for good by the end of the summer. The director's aquatic life-loving granddaughter—Kukuru Misakino—cannot stand the thought of the aquarium closing and is determined to make enough money by the end of the season to keep the doors open.
+            Seeing the unique magic of the aquarium, Fuuka begs Kukuru for a job; however, she soon finds that her lack of experience makes her more of a hindrance than anything else. At the same time, Kukuru realizes that her ambitious goal might be more than she can handle. With mounting pressur</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/10.jpg</column>
+        <column name="originalname">Shiroi Suna no Aquatope</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Drama, Slice of Life</column>
+        <column name="image2">edt69/images/10b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">11</column>
+        <column name="name">Miss Kobayashi’s Dragon Maid S</column>
+        <column name="description">As Tooru continues on her quest to become the greatest maid and Kanna Kamui fully immerses in her life as an elementary school student, there is not a dull day in the Kobayashi household with mischief being a daily staple. On one such day, however, a massive landslide is spotted on the hill where Kobayashi and Tooru first met—a clear display of a dragon's might. When none of the dragons they know claim responsibility, the perpetrator herself descends from the skies: Ilulu, the radical Chaos Dragon with monstrous power rivaling that of Tooru.
+            Sickened by Tooru's involvement with humans, Ilulu resorts to the typical dragon method of resolving conflict—a battle to the death. Despite such behavior, she becomes intrigued by Kobayashi's ability to befriend dragons and decides instead to observe just what makes Kobayashi so special. With a new troublesome dragon in town, Kobayashi's eccentric life with a dragon maid is only getting merrier.
+        </column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/11.jpg</column>
+        <column name="originalname">Kobayashi-san Chi no Maid Dragon S</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Fantasy, Slice of Life</column>
+        <column name="image2">edt69/images/11b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">12</column>
+        <column name="name">Drug Store in Another World: The Slow Life of a Cheat Pharmacist</column>
+        <column name="description">Reiji Kirio, formerly a corporate slave, wakes up one day in another world. After discovering that he has gained superhuman pharmaceutical knowledge, he decides to open up a drugstore alongside the canine Noera and the ghostly Mina. There, he tends to the needs of all who visit the shop with potions and the like.
+            Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore follows the slow but often hectic days of Reiji's drugstore. </column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/12.jpg</column>
+        <column name="originalname">Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Comedy, Fantasy</column>
+        <column name="image2">edt69/images/12b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">13</column>
+        <column name="name">Tsukipro The Animation 2</column>
+        <column name="description">For the members of SolidS, Growth, SOARA, and QUELL, the Tsukino Talent Productions' Live 2021 Summer Carnival is coming soon. The two-day event will culminate with a joint live performance featuring all four units. Due to the size and setup of the stage, each unit will need to create new songs and choreographies to accompany them in the riveting second season of Tsukipro The Animation.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/13.jpg</column>
+        <column name="originalname">Tsukipro The Animation 2</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Music</column>
+        <column name="image2">edt69/images/13b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">14</column>
+        <column name="name">Tsukimichi: Moonlit Fantasy</column>
+        <column name="description">As part of a mysterious contract agreed upon by a goddess and his parents years ago, Makoto Misumi finds himself sent to another world to meet the goddess and become the hero. However, the deity deems Makoto to be &quot;hideous,&quot; refusing to even lay eyes upon him and revokes his heroic title. Disdainfully giving him the ability to understand all languages except the human language as compensation, the goddess drives Makoto off to the farthest edges of the wasteland, far from human civilization.
+            Due to the disparity between Earth and this new world, Makoto's inherent physical and magical capabilities awaken, making him extremely powerful. He meets various demihumans and mythical beings who all end up being captivated with his characteristics and join Makoto in building a new community where all of them can peacefully coexist.
+            Nevertheless, despite this success, Makoto still yearns to meet fellow humans. In a world where the goddess herself has barred him from interacting with his kind, it</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/14.jpg</column>
+        <column name="originalname">Tsuki ga Michibiku Isekai Douchuu</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Action, Adventure, Comedy, Fantasy</column>
+        <column name="image2">edt69/images/13b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">15</column>
+        <column name="name">That Time I Got Reincarnated as a Slime Season 2 Part 2 </column>
+        <column name="description">The nation of Tempest is in a festive mood after successfully overcoming the surprise attack from the Falmuth Army and the Western Holy Church. Beyond the festivities lies a meeting between Tempest and its allies to decide the future of the Nation of Monsters. The aftermath of the Falmuth invasion, Milim Nava's suspicious behavior, and the disappearance of Demon Lord Carrion—the problems seem to keep on piling up.
+            Rimuru Tempest, now awakened as a &quot;True Demon Lord,&quot; decides to go on the offensive against Clayman. With the fully revived &quot;Storm Dragon&quot; Veldora, &quot;Ultimate Skill&quot; Raphael, and other powerful comrades, the ruler of the Tempest is confident in taking down his enemies one by one until he can face the man pulling the strings.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/15.jpg</column>
+        <column name="originalname">Tensei shitara Slime Datta Ken 2nd Season Part 2</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Action, Adventure, Comedy, Fantasy</column>
+        <column name="image2">edt69/images/15b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">16</column>
+        <column name="name">Seirei Gensouki: Spirit Chronicles</column>
+        <column name="description">When 20-year-old college student Haruto Amakawa dies in a traffic accident, he does not expect to wake up in an unfamiliar world in the body of a young boy named Rio. As their memories and personas fuse, Rio realizes that he now also possesses magical powers. He is relieved to find that his burning passion for revenge against his mother's murderers has not subsided, despite his newly changed identity.
+            Not soon after, Rio comes across the kidnapped princess of the Bertram Kingdom and saves her without hesitation. To express his gratitude, the king grants him the opportunity to enroll in the Bertram Royal Academy. Believing this to be a new chapter in his life, he is excited to study at this prestigious academy, but life here proves to be difficult for him, a slum-dweller surrounded by the majestic children of nobles.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/16.jpg</column>
+        <column name="originalname">Seirei Gensouki</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Action, Adventure, Drama, Fantasy, Romance</column>
+        <column name="image2">edt69/images/16b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">17</column>
+        <column name="name">Life Lessons with Uramichi-Oniisan</column>
+        <column name="description">In the studio of the morning childrens' show &quot;Together with Mama,&quot; a crew of miserable adults prepares their facades of amicable smiles and cheerful exteriors to educate a group of innocent preschoolers. In the middle of it stands Uramichi Omota, a former gymnast who can't help but bring the kids down to earth by revealing the harsh and depressing reality of adulthood, even in front of the rolling cameras.
+            Behind the scenes, Uramichi's much-desired peace is disturbed by his two bothersome juniors who work as the show's rabbit and bear mascots and singers: Utano Tadano, a woman who only wishes to get married; and Iketeru Daga, a handsome man with a crass sense of humor. From smoking and exercising to nihilistic outbursts, everyone's big brother Uramichi always brings up the not-so-moral side to his life lessons.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/17.jpg</column>
+        <column name="originalname">Uramichi Oniisan</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Adult Cast, Gag Humor, Showbiz, Workplace</column>
+        <column name="image2">edt69/images/17b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">18</column>
+        <column name="name">The Duke of Death and His Maid</column>
+        <column name="description">As the elegant, frail flower petals wither away into lifeless ashes, the young duke is tragically reminded of the despicable power forced upon him—the ability to kill anything he touches. Scorned by his family, he is sent away to live in near isolation. Fortunately, he is not entirely alone, as the manor's staff—his dutiful butler Rob and the flirtatious maid Alice—keep him company and make his life less miserable.
+            As the duke's romantic feelings for Alice grow, so does his continued frustration for the limits set by his unfortunate ability. Therefore, he resolves to break the curse cast upon him all those years ago, not only for his sake, but Alice's as well—for he is painfully aware of how difficult it is to avoid the touch of a loved one.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/18.jpg</column>
+        <column name="originalname">Shinigami Bocchan to Kuro Maid</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Comedy, Drama, Supernatural</column>
+        <column name="image2">edt69/images/18b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">19</column>
+        <column name="name">IDOLiSH7: Third Beat!</column>
+        <column name="description">Nearing their first debut anniversary and with their popularity still on the rise, IDOLiSH7 set a date for a live tour to express their gratitude toward their fans. Meanwhile, the Black or White event draws closer—and as the previous year's winners—the group must prepare to take on the challengers. Looking to solidify their reputation in the world of idols, IDOLiSH7 are determined to come out victorious and settle the score once and for all with their rival, TRIGGER.
+            While working around their packed schedules, IDOLiSH7, TRIGGER, and Re:vale meet powerful figures in the entertainment industry. In the midst of the hectic period, some members catch wind of a scandalous rumor regarding IDOLiSH7. As the members of IDOLiSH7 begin to worry about their image, their bonds are put to the test, all while a spiteful figure begins to carry out a certain plan behind the scenes.</column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/19.jpg</column>
+        <column name="originalname">IDOLiSH7: Third Beat!</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Drama</column>
+        <column name="image2">edt69/images/19b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">20</column>
+        <column name="name">The Detective Is Already Dead</column>
+        <column name="description">Kimihiko Kimizuka has found himself inadvertently entangled in various crimes more times than he can remember, referring to himself as a magnet for trouble. One day, as if it was nothing out of the ordinary, a group of unknown men kidnaps him, forcing him to board a flight—where he also encounters a hijacking. Amid the resulting chaos, however, Kimizuka meets a stunning silver-haired beauty, going by the codename Siesta, who then saves the day.
+            Claiming to be a legendary detective, Siesta enlists Kimizuka to be her sidekick. Though Kimizuka refuses at first, with Siesta's insistence, he eventually joins her—marking the start of a grand adventure spanning the entire world, preventing multiple threats that could spell doom for humanity along the way.
+            Unfortunately, after three years of their unpredictable yet enjoyable time together, Siesta abruptly passes away. Distraught, Kimizuka tries to leave all memories of her behind, but as he begins to meet more people, it seems that Siesta's </column>
+        <column name="type">TV</column>
+        <column name="year">2021</column>
+        <column name="image">edt69/images/20.jpg</column>
+        <column name="originalname">Tantei wa Mou, Shindeiru</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Comedy, Drama, Mystery, Romance</column>
+        <column name="image2">edt69/images/20b.jpg</column>
+
+        <column name="active">false</column>
+    </table>
+    <table name="animes">
+        <column name="id">21</column>
+        <column name="name">Attack on Titan</column>
+        <column name="description">Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.
+            After witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend A</column>
+        <column name="type">TV</column>
+        <column name="year">2013</column>
+        <column name="image">edt69/images/21.jpg</column>
+        <column name="originalname">Shingeki no Kyojin</column>
+        <column name="rating">17+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Action, Award Winning, Drama, Suspense</column>
+        <column name="image2">edt69/images/21b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">22</column>
+        <column name="name">My Hero Academia 2</column>
+        <column name="description">In a world where most people have superpowers, middle school student Izuku Midoriya is part of 20 percent of the population born without them. But his dream is to become a superhero and to attend the premier Japanese school for aspiring superheroes, UA High. After a fateful run-in with All Might, the world’s greatest hero, he learns that his idol is dying and wants to pass on his mantle. His chosen successor, of course, is Midoriya.
+            This eventually leads to Midoriya inheriting All Might’s powers and attending UA High, where All Might is training the next generation of heroes. But when a group of villains show up looking for revenge, Midoriya and the other students feel compelled to grow faster into heroes or become a burden.</column>
+        <column name="type">OVA</column>
+        <column name="year">2016</column>
+        <column name="image">edt69/images/22.jpg</column>
+        <column name="originalname">Boku no Hīrō Akademia</column>
+        <column name="rating">14+</column>
+        <column name="demography">Shōnen</column>
+        <column name="genre">Adventure, Science fantasy, Superhero</column>
+        <column name="image2">edt69/images/22b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">23</column>
+        <column name="name">Demon Slayer: Kimetsu no Yaiba</column>
+        <column name="description">Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
+            When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants</column>
+        <column name="type">TV</column>
+        <column name="year">2019</column>
+        <column name="image">edt69/images/23.jpg</column>
+        <column name="originalname">Kimetsu no Yaiba</column>
+        <column name="rating">17+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Adventure, Dark fantasy, Martial arts</column>
+        <column name="image2">edt69/images/23b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">24</column>
+        <column name="name">Demon Slayer: Kimetsu no Yaiba</column>
+        <column name="description">Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
+            When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants</column>
+        <column name="type">TV</column>
+        <column name="year">2019</column>
+        <column name="image">edt69/images/23.jpg</column>
+        <column name="originalname">Kimetsu no Yaiba</column>
+        <column name="rating">17+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Adventure, Dark fantasy, Martial arts</column>
+        <column name="image2">edt69/images/23b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">25</column>
+        <column name="name">Jujutsu Kaisen</column>
+        <column name="description">Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the &quot;King of Curses.&quot;
+            Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.</column>
+        <column name="type">TV</column>
+        <column name="year">2020</column>
+        <column name="image">edt69/images/25.jpg</column>
+        <column name="originalname">Jujutsu Kaisen</column>
+        <column name="rating">17+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Adventure, Dark Fantasy, Supernatural</column>
+        <column name="image2">edt69/images/25b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">26</column>
+        <column name="name">Black Clover</column>
+        <column name="description">Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the &quot;Wizard King&quot;—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.
+            When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoir</column>
+        <column name="type">TV</column>
+        <column name="year">2017</column>
+        <column name="image">edt69/images/26.jpg</column>
+        <column name="originalname">Burakku Kurōbā</column>
+        <column name="rating">13+</column>
+        <column name="demography">Shônen</column>
+        <column name="genre">Adventure, Fantasy, Action</column>
+        <column name="image2">edt69/images/26b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <table name="animes">
+        <column name="id">27</column>
+        <column name="name">Hellsing</column>
+        <column name="description">Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard.
+            Armed with only a single handgun, Alucard wreaks havoc on the monsters plaguing Cheddar. However, a young police officer, Seras Victoria, gets caught up in the chaos and becomes mortally wounded as a result. Taking pity on the girl, Alucard gives her a choice: die as a human or live on as a vampire. Seras accepts his offer and begins a new life as a member of Hellsing.
+            Though it was her decision, Seras struggles with the fact that she is no longer human. Nevertheless, she must embrace being a creature of the night soon if she wants to survive on the front lines in the fight between humans and the supernatural.</column>
+        <column name="type">TV</column>
+        <column name="year">2001</column>
+        <column name="image">edt69/images/27.jpg</column>
+        <column name="originalname">Hellsing</column>
+        <column name="rating">17+</column>
+        <column name="demography">Seinen</column>
+        <column name="genre">Action, Dark fantasy, Vampire</column>
+        <column name="image2">edt69/images/27b.jpg</column>
+
+        <column name="active">true</column>
+    </table>
+    <!-- Table favorite -->
+    <table name="favorite">
+        <column name="iduser">1</column>
+        <column name="idanime">1</column>
+    </table>
+    <!-- Table users -->
+    <table name="users">
+        <column name="name">admin</column>
+        <column name="email">admin@mail.com</column>
+        <column name="password">1234</column>
+        <column name="phone">11111111</column>
+    </table>
+    <table name="users">
+        <column name="name">sergio</column>
+        <column name="email">sergio@mail.com</column>
+        <column name="password">1234</column>
+        <column name="phone">11111111</column>
+    </table>
+    <table name="users">
+        <column name="name">maria</column>
+        <column name="email">maria@mail.com</column>
+        <column name="password">1234</column>
+        <column name="phone">11111111</column>
+    </table>
+    <!-- Table videos -->
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/uw4ARaxJ#KcpSHRZHbHMjx-t1n1LbTqPw9kjO4tuBLUFtCrwc070</column>
+        <column name="image">edt69/images/1_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/354WUYAY#fQwtOvU0mDl0FUR6ZqZxZPwZnLWpFXlRsL02W9upoyE</column>
+        <column name="image">edt69/images/1_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/n4w23SjD#-MWlR-hFh0P5gdM7YxY9jOEWu6Pmgp7lP61iOIP0D3A</column>
+        <column name="image">edt69/images/1_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/boo2TAhI#h98LkZP2qtOKcguxoL6Ga9v_5owxQ9GCGOphIbU4yMU</column>
+        <column name="image">edt69/images/1_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/ihxASYZQ#hPTFMGi-wG-cFGtOrGXoVYxADEYjVv1CYLB5HuV4fF4</column>
+        <column name="image">edt69/images/1_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/yl4khKQa#OpOB2zXU0FZWRAtBaZCHRioT_paJQwcEbRR_s-zOYZk</column>
+        <column name="image">edt69/images/1_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/Hwg2yYrS#EL1bt9QWVotO83on1w1CiLhM1adnfh-TUtCLO7pAWjo</column>
+        <column name="image">edt69/images/1_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/rlwWAYhb#fmPEYDaajeiU5sXJMxbLbK84nEXwk-FeaiBDFOTLrAE</column>
+        <column name="image">edt69/images/1_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/ahxUBYoJ#YoX04lQCY-N0I2WtxvIdzQnMpF7PE-I31Pmz3UXUnxY</column>
+        <column name="image">edt69/images/1_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/W04ylAYJ#Dzwj3Q3HwWLQjarO49MySSmfn7TlLKqGoNEt-2B7FZg</column>
+        <column name="image">edt69/images/1_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">1</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/2sgEQKyb#-A_EMqXEFXS39LF7OWeRxzlqI_PoB3BDk4vWKMVa1cw</column>
+        <column name="image">edt69/images/1_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/WXwRmKxa#7E75qWPvMh0HIVa3cSz7eTY_uk8ujke7WMk3w1hlWcc</column>
+        <column name="image">edt69/images/2_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/H4wWxIiL#7WkFhIcl2tTt-3fZx1sQ0BLLWXcxoo5loW2-XJK00-c</column>
+        <column name="image">edt69/images/2_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/S9wiESiD#OhvFAG08g1_5Ww5Bm_jujW2niP9Blm84wYSBcZlOKd0</column>
+        <column name="image">edt69/images/2_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/TOI3VApI#UodXS9aXFaqBJLBjgGOyUE4Bfrie98eXoF-UVwMY464</column>
+        <column name="image">edt69/images/2_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/7p5EgSyL#AwzSyuwGmKchnp0axi7UkpeQiijUJrHdNtrg3zg8xz8</column>
+        <column name="image">edt69/images/2_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/X9pADQoQ#Ge63ieQOhYSqF0AJ7E_L5d0H635u0QG70vYAnGS2sVA</column>
+        <column name="image">edt69/images/2_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/f5oSTSga#UOLVfRGoUzXdkEkWhiAXIAQTHhLlAmZ0EnbMlKm94M4</column>
+        <column name="image">edt69/images/2_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/ephiDARL#PI_iKch1TPMjej-BpO1iV1_PZt7yjxTdOWtwmbsYQc8</column>
+        <column name="image">edt69/images/2_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/2gxiyAJQ#zUH6k8tmH_TUMQNCSsr50yyhAlwLWumxumem7eB8YFQ</column>
+        <column name="image">edt69/images/2_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/3SIwBbpI#mV9V-Y3drMfsA8hok-fLn_HEkMx-LLtKa2zTXFUb5_c</column>
+        <column name="image">edt69/images/2_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/a0hElCLZ#dx4hV9G7WZC56sC8DTN-0cnBhT7CvjvSY4ph1o4Ngg0</column>
+        <column name="image">edt69/images/2_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">2</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/zto2BaYK#LXJ3qyM74U7tesWcFJRKWuWDCy10isH1s7nHrmfVgMo</column>
+        <column name="image">edt69/images/2_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/vfJCELqA#rUGu3XHpfD7Wy8N8TBMMqKHuiZz7G77sdddrxQo6sXA</column>
+        <column name="image">edt69/images/3_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/v4wgwBLD#Emgp7j0icnJUSFhT2GLSKpi6gOuT3Uvhm_dp7lZC1Z4</column>
+        <column name="image">edt69/images/3_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/KpgW0LzS#p8paagxt6KAU1PptzBjwPxL614s1Bqg4udsxqy5G7ok</column>
+        <column name="image">edt69/images/3_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/79hQ2BDS#X3V7eJgn1irM1LigOrLuNLGNe4i17QNuAJtHj3ToGus</column>
+        <column name="image">edt69/images/3_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/O45AQRQa#A_tcuvNWrqDm3qpqz-70KaXxUTxNU1RCxqNUBZ4gjsw</column>
+        <column name="image">edt69/images/3_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/jph0mDLQ#2P2u7E00NjhUqpAKi08MfglD6T_0btoCSMjCOYqz_Iw</column>
+        <column name="image">edt69/images/3_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/iohwHBZK#Kq4TD_a1LwOP84q44D1PP_pCJm7RLJ1S4KLi6z1CYEA</column>
+        <column name="image">edt69/images/3_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/Gxx0ibJT#qGeNVviefRg_olMpipiJgKk0k8943WoJmZZlAn_yuL0</column>
+        <column name="image">edt69/images/3_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/utpmDJzb#Hzo8_qlNBPWrsIoKckt2hhnIcUujhGZpTPh3ZyDLxyg</column>
+        <column name="image">edt69/images/3_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">3</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/S1gynJaT#iNdZbirAtSMViw83crHIgius3xD46SzSV36Iml8ZgXg</column>
+        <column name="image">edt69/images/3_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/L4wk1aLS#jAJP-ZVNu3dGoXnJVE90NlzzzLOOVA8KcpeCkaUKphA</column>
+        <column name="image">edt69/images/4_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/bpwy0aDI#BncIXeca4mMexLlpNbYEJAqjLvWWPSjKAGzMPlFwrD8</column>
+        <column name="image">edt69/images/4_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/O54GTSyS#ftajRijkYSaWp-KpnTTtec4lphZ5biAzPOzT9-iB4bc</column>
+        <column name="image">edt69/images/4_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/35okDK4I#VpNzq3i7ArIOhS9hqM9JzHpvUu-EZjpI89DfK1QX2L8</column>
+        <column name="image">edt69/images/4_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/Xlw2hYiZ#KMTJv2NIMQW10U_a9obeblEgDfYquLFkN9ZeC7G4mRk</column>
+        <column name="image">edt69/images/4_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/b8hi2S7J#_4W3BimpSs7uAyDHvY-OKC6d1OuLzxFcjD1-rCBgd2w</column>
+        <column name="image">edt69/images/4_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/WowiDKrb#veeXtuTrZW0zDpp06-y23HyA_3DpW7X7_-CyBlP7e_c</column>
+        <column name="image">edt69/images/4_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/ut4AnQDB#DevO3mDjYLOUHRPhxxSMPsXD0LSE2oxqJPbsQqhon3E</column>
+        <column name="image">edt69/images/4_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/zswwFaLZ#IiG3vyF02SJvg6bQS29O2D6lz7izCScx8xFRduimRB4</column>
+        <column name="image">edt69/images/4_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/L5xGjACD#gPZH3UMXzwtNlwMyq-6r2NskvfSb_8cti3oIA4FPJUM</column>
+        <column name="image">edt69/images/4_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/L9oSVS7S#YTuYSgtaay3vRtM1oGEVyfYUAD_PD7o36XPGoNZRp6A</column>
+        <column name="image">edt69/images/4_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">4</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/rtoyyKrI#Pllovf6yYmEQFSAP8tMUakQnsbRleMlq8UDMBaxxwXk</column>
+        <column name="image">edt69/images/4_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/uwpmRK6T#Va7ZynwTVdpJiIhzN_JAJlIrB2nPBiDuwSSgBUfKXXM</column>
+        <column name="image">edt69/images/5_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/q04igahK#b52W0o08mrctNX-x0Dd4focxWaQKGx-iWH-h51nK8vY</column>
+        <column name="image">edt69/images/5_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/qhgTRYxL#FPswDjTF-QxLtxGuFJ3O8bdfgzHJ82lyULcXgmXkN4M</column>
+        <column name="image">edt69/images/5_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/jlwRDKyQ#oTQU1iR4C-471cFg0_cEbHwqGqT-LRLp9Xh2dVR_LAs</column>
+        <column name="image">edt69/images/5_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/K04FRCxZ#BpFZYeRPF-YS7w34WjCTDmWtZ7Os8XxHbf4JPbOh8Zk</column>
+        <column name="image">edt69/images/5_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/P4ojXIwD#ItoWuazJvI_2k3FezHDoLDa8h6sM5p3htiD-tubBcFo</column>
+        <column name="image">edt69/images/5_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/Kw5xEYzT#g-dyy6lPFaSICQaEBxaDo2-Dj1lL5retGnHhDUy_YWQ</column>
+        <column name="image">edt69/images/5_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/usw10AIT#Dvkj2g1tBsNuZ3Fa8WTOPOPNL6LztJKBdKpZfPl1QUw</column>
+        <column name="image">edt69/images/5_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/ClwjxYCS#-dS1cYrovfsnP6aaPseWo5vIud1WTuJzgYfp-uz9F28</column>
+        <column name="image">edt69/images/5_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/yGIUiJRQ#SOhhHTU_iGzHQ8l1qt7MC-FMalhU3Tv_P3tMyLwBw1s</column>
+        <column name="image">edt69/images/5_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/W5x1VIzB#nf75rWwnwedyXZvS4RmfdsnjfR9QQ78Vm-IIhttLsdE</column>
+        <column name="image">edt69/images/5_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">5</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/7w5XSKiC#RiZdEYN-j98TwHf-f0SKHW7g7fH_HHvJtDD50zVmMBg</column>
+        <column name="image">edt69/images/5_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/emed/qDoRzIDT#e8vVTB7yUqwHT_Lt416a9ueMuSVcSwVwdp-DzMV2-GQ</column>
+        <column name="image">edt69/images/7_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/emed/LChnkAQQ#Lr4QfYDGxaK7teBFhdnRUcAn0oR3oOIFcSX4lZm_b9c</column>
+        <column name="image">edt69/images/7_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/emed/fb43xYTR#G5DS-Q_FL0TFFCp0iUX4bJayYUNpUYO6g-NzexIFWdEQ</column>
+        <column name="image">edt69/images/7_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/emed/vSxXEYIJ#Q6fIsWoLJPGKa7FaAJrGvqQe5EA0Pspp88HtdBOx2eg</column>
+        <column name="image">edt69/images/7_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/emed/KOxzBABb#6OEgzcI1lZf7xGLPNC7ewzdhJ3V0K1uh0GH5vZQf3aE</column>
+        <column name="image">edt69/images/7_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/emed/fTgHQaQA#g024w22qI_FDGQOuVbftMrEz2hJTX_a09VkNWSx6V54</column>
+        <column name="image">edt69/images/7_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/emed/fCxT1Apb#Nbg3yfcd0Sss357R1X_TNvYkPPg0YPexGcRC2uoxMTA</column>
+        <column name="image">edt69/images/7_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/emed/PGo3TICS#Z2StmOzA9CQQCuyHvdDyR7jv4D2hYDvuu_29w_YXdaY</column>
+        <column name="image">edt69/images/7_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/emed/CD4BiQBR#5_DsjGesMdXPcHjUY_KqUdge4tsmlsQONLEfIblSBnM</column>
+        <column name="image">edt69/images/7_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/emed/PDplGaYT#WmuNka_EQfGt-yKnU1gasJsV2BZgzBb_JjK5QHZdk-c</column>
+        <column name="image">edt69/images/7_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/emed/ya513CyZ#stpDoXQlv8YKTZHak4xrIGpo1hE7_QPaHZ6jUf-e4cY</column>
+        <column name="image">edt69/images/7_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">7</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/emed/Motk2A4S#bAVRSe59_fZVjAa1Gy_2WkmqUs4MoysmL5_WvdPpi7k</column>
+        <column name="image">edt69/images/7_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/y1ASFLwT#Xd_q85TVfgrkUfXkcKuGXUtjLhzF2-nDYGe6PJHyNHI</column>
+        <column name="image">edt69/images/8_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/XuICjZyD#qDHjhzRfF5fQX60CJ71BK58eb7D1J0EpdFztzHHtb9I</column>
+        <column name="image">edt69/images/8_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/OxAmiJQK#s-9DT8DNbmNoJBwB104UFq2Z7-saSfczUk-Ftrs_W8Y</column>
+        <column name="image">edt69/images/8_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/ixBggBoa#FiV3JNYmwaG6ARm-xAReu-KLmWsyp9Su16stZhEYq10</column>
+        <column name="image">edt69/images/8_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/XhRUVLCK#k2SBgH5o5G78ZUebyv3SwqRaH-l820wB5TThxb7_4UQ</column>
+        <column name="image">edt69/images/8_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/qhICxRRD#XgIHQhQySVtBivniJKiobQfFnVRkQtWO2k9bSOfhzGM</column>
+        <column name="image">edt69/images/8_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/e1YAHBxC#ngqhMqi4v_I9xuQKGOTHrhX-WdHJoWcVAtAukGCspuc</column>
+        <column name="image">edt69/images/8_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/hBZS1LhL#J89oDlyeVYvg4VVc8OlnVZlI4c2pyZKEKeE8Mb2pnWw</column>
+        <column name="image">edt69/images/8_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/JVY2CT7L#PzXUduNwaRt8weUz4Q7ykTb_j8L9vaY1nAKMwNqKpWA</column>
+        <column name="image">edt69/images/8_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/S95TyQZJ#azKV3Igk0aozp55uhX_k3uJoOTwbwZSfDlq03Zn1nNw</column>
+        <column name="image">edt69/images/8_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/8RQUnBoa#6Rtz9PRjM_JE6-MNiKA6-sXuEGgMiPPikCmjYj1VPwk</column>
+        <column name="image">edt69/images/8_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">8</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/gUJimJwb#TO7P0SZAGytlOgCf83UP7lFWgLS100oRh5QOO9KbMDk</column>
+        <column name="image">edt69/images/8_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">1</column>
+        <column name="url">https://www.yourupload.com/embed/12ml7QfHWAxn</column>
+        <column name="image">edt69/images/9_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/cs1j1AiJ#f-R3gGuq6raBA90FpCzwiGdRBbdv4JuzVnTOrdQa3zI</column>
+        <column name="image">edt69/images/9_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/p08jSZKJ#hDD4TL7SAwDjFS3FTfQlRIoPw6WnWn_ER_ofy8Vufk0</column>
+        <column name="image">edt69/images/9_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/Y48yWRoK#coHvGIUtGmPFhPWLMbF0XIAVMzagSWvE8caHywTFY6A</column>
+        <column name="image">edt69/images/9_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/MhdUnayD#mDNrVowjBR1Q58CpLkplrH4NCvD096dwrknrCuLMRf4</column>
+        <column name="image">edt69/images/9_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/spkgFIQb#P5AqVlX6ZO66yJ6aw6rTWZqyaL7SgW0GbmsrI7pMf2c</column>
+        <column name="image">edt69/images/9_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/MgcgWAaT#oxwMHc8lU7IaR7npRlq8vzUoYKUp-9bQluDMg4Na0wY</column>
+        <column name="image">edt69/images/9_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/J01lSSwK#YTigAwz-WpbBjbMkTOMc6zOs_MmmwihYpJROY0rmTWw</column>
+        <column name="image">edt69/images/9_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/5xlwib5S#aVUYl7l-Blw-_utuwhbPKB8aY1YlVu8r0yP9tu4c_ZE</column>
+        <column name="image">edt69/images/9_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/8pVSlTDI#vDsMPtA8DBMuhEedJHnWS4OR0DteWrsxQEVeTy_5T6k</column>
+        <column name="image">edt69/images/9_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/R0FDxKTR#_x7nrgB2VSK0W8oTSbgXMtE14UuHOw2tduPSAVhS6NM</column>
+        <column name="image">edt69/images/9_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">9</column>
+        <column name="episode">12</column>
+        <column name="url">https://www.yourupload.com/embed/HbFyKnRr67RP</column>
+        <column name="image">edt69/images/9_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/gZAlESSA#nmZxBejEIGBVKTgYFPUYI_n-FhZza4BaI9OhhWhEFbc</column>
+        <column name="image">edt69/images/10_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/oRx0yRCQ#NBFd-rjLKjJIhTq-YRb1W_dzOej8RX_FQZoG6PEC_OQ</column>
+        <column name="image">edt69/images/10_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/4Yo2iKbI#hleOuq2GK9K0l3rb-QNKiiAN5q0xD07n0UQgvPNBo80</column>
+        <column name="image">edt69/images/10_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/MQ4TlJjC#LDnTzRQQyPBqD-xbXoiW6zlev-Osvb4bjawJwo5t7yM</column>
+        <column name="image">edt69/images/10_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/0UQSkSAC#vULee1DzdLgtwWaC-fp4FW8MGQ7oUuHiBzKuBYCpw8k</column>
+        <column name="image">edt69/images/10_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">10</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/0ZJnEALZ#OYgXOZQqh8qUQ8ob85x86nEcEu4EeVlfcbpi3reWaKE</column>
+        <column name="image">edt69/images/10_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/r9pgGAjS#_1h9VB5HPy_qYOTA0_dv5icgTYiYXL8effA6CHGhdY8</column>
+        <column name="image">edt69/images/11_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/3sxURahT#FROY-47TdWi_E3PDelsgkSjSUvkOiUd9Gd_Lkdol0-I</column>
+        <column name="image">edt69/images/11_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/bpgmCSBS#jTd2nHs-7u0JVtiyZyoMv8slzeFougA28ZyACVhP5FY</column>
+        <column name="image">edt69/images/11_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/qgpCAI7L#DjwXiN9UjQQC0ViMe_DJqBKo_o6IGfm4pUjU6GqAmTE</column>
+        <column name="image">edt69/images/11_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/ylwiSYqa#Zo_vKIZw6UJTdbEvYdVDcR47r-pck4NKnelZSLHRHMg</column>
+        <column name="image">edt69/images/11_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/NMRjhIiL#ub72Z39g3hvvJOf1BlvWIysipfAzL08P3Y1he0T-6dg</column>
+        <column name="image">edt69/images/11_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/yggwiYbA#dLcgsdUlSmOO7_nfAhtz5eULNjJKH8lqLr2o8liqxso</column>
+        <column name="image">edt69/images/11_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/OgoUQILY#auipyMY-UmFzLq0F_YEAyce4rGdog2aG-6m5jxlwPN4</column>
+        <column name="image">edt69/images/11_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/AEY3TT4R#0xUtUpxtU7ppHus5YKhQKET8X7wPuEML-9rPM5160bM</column>
+        <column name="image">edt69/images/11_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/Ol4SVYpT#yE9bT474G01mi-vY0vgBqIKx45P-oqqK5N_i1kd4RfQ</column>
+        <column name="image">edt69/images/11_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/msoyCQCR#1siqK9ydB7kk7_LOvgy08dwTeAqk7geJ7sXa15uFVf8</column>
+        <column name="image">edt69/images/11_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/mgw2jQLD#x5OAQrFQiX9WAIU6VIhYr99njP70A41rrIRFvqgyDqI</column>
+        <column name="image">edt69/images/11_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">11</column>
+        <column name="episode">13</column>
+        <column name="url">https://mega.nz/embed/l1MhkJaZ#6KZ0MLnkHphZjpECLh07ER1CrnKbKbbDtliRiUAkDnE</column>
+        <column name="image">edt69/images/11_13.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/H4owBY4Y#L4m07agRZQKn-mn4DIagk_-_2jxBIekR8JOUHgqcOQM</column>
+        <column name="image">edt69/images/12_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/6pommAgb#-EchmdYFFrccYLOBqatIUp2w8HYGD4gQUIBVAh7R7RU</column>
+        <column name="image">edt69/images/12_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/T0gAHSqB#DDBZYOw1btvuh4OhDxN093ws2GShmjGza836vPVupyw</column>
+        <column name="image">edt69/images/12_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/qkxSBCJK#sLnC6RoFmJUpjIWBV3Ij81BPH7dyGaXdPneqZ31qXe4</column>
+        <column name="image">edt69/images/12_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/r9oCHQaR#evHTVaFswH1_M1VlVwwXh8O85K13kmI9Pz74a9hY4cM</column>
+        <column name="image">edt69/images/12_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed#!bsxG2YiI!s3-R09crhOySFcWfs3zJW76pdWgGTVlQXptHs7jNRwA</column>
+        <column name="image">edt69/images/12_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/ms4ggCTb#Vlg-r52mRZ3yQD6C9RjmSUuu48A_Zjw3DE6_vGA0CKk</column>
+        <column name="image">edt69/images/12_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/vgJEWZDJ#JNo2PdKJ4HFV1ckfIPJYlA6n104xZC3xqDuMdnROUec</column>
+        <column name="image">edt69/images/12_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/n5gkQSJI#2r55U5DQ4Ekp7T5QWZIuj1c09jhdY8LAEXqAg_nZtes</column>
+        <column name="image">edt69/images/12_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/e54ixYIR#efuktkYmqVSA0i56wJ17S2SB3GaVN4Tol4wMrUyEGOU</column>
+        <column name="image">edt69/images/12_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/msgwEAYB#-QwL5i5qfYDEeoBky6E0mMhf0KWp7BQf4SY0iFiM3kY</column>
+        <column name="image">edt69/images/12_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">12</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/G4ICgT7a#gL3UQTOYehH2RMSgdxnSVi42T0eLzf-1t4pEuUt69m8</column>
+        <column name="image">edt69/images/12_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/i8gSBSbL#XvFrgzsKK0fcXxlctz52fqZ3HLSRBCgePDp550Un7U4</column>
+        <column name="image">edt69/images/14_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/f4oWFAxB#xS8W1CPZeXyFPeRX6KNN0RgayjlvwUr2KaQrKAUvfxI</column>
+        <column name="image">edt69/images/14_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/H4oiBIDJ#HQ9cnll8h68ObJh0bG3fMYJeIzKOp3jTZx-v5IxJVhI</column>
+        <column name="image">edt69/images/14_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/KphkEQBS#dfOCnGxinZRgXYwyJIn8biyGCPEj_OC398uJVj0q61c</column>
+        <column name="image">edt69/images/14_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/D94C0SjS#r3IdZr4kLGofLH84hAWpVjscX-ZXhmIlE51ppDWlc3U</column>
+        <column name="image">edt69/images/14_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/WsgU1SjS#PTbbMjhPkhWQMa--t5OjFcvQTY4dMUbNoDjpAVVrWNQ</column>
+        <column name="image">edt69/images/14_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/jk4gwIyR#9NttHbgpkS8AuFU1padgKHZ1Eylle2SUa1GzDwAuyQc</column>
+        <column name="image">edt69/images/14_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/OtpwwA6I#uqV_q29mC5DnumWgcUSfLq1IZ6JAf_0IKGip4lS-XNc</column>
+        <column name="image">edt69/images/14_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/3xwCGADL#pfDXNW1nc5XT99zSwHfNLyNf5_Uj28XVxxf54CCXfxw</column>
+        <column name="image">edt69/images/14_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/CtgiVSRJ#WRIfA4khGVmCvGLHYUbjTgY0Ul4GBoc51_dL-Rip56M</column>
+        <column name="image">edt69/images/14_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/ahwAjYRL#ToJ7QUXAnHYwfRHwPguO4efW6blmNsdhU6bdeCNpvl0</column>
+        <column name="image">edt69/images/14_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">14</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/i1pQGSIJ#ho-BNLNVD-cbp56uHqqW1wbPFsi0Fq2LXgwQY8Riby0</column>
+        <column name="image">edt69/images/14_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/QT8nWDYa#zyd1XWzb9LrNFO1lceTUwsszucU2krkYfr6zZ-oXk_Y</column>
+        <column name="image">edt69/images/21_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/7XpHkYSQ#4ByZbVBidWNubWGpTlJPA4IXcMUqS0XBmgEz2hCyZS4</column>
+        <column name="image">edt69/images/21_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/9OtwSIRJ#ALFimoAUAHrMGePa5sADxnL7HTH1b6oeQZyppD8r348</column>
+        <column name="image">edt69/images/21_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/1SUzGDQQ#SnLAt_kinPp9jdUHhk7C7q8A5PUhyP5Akvlsk9OOAaA</column>
+        <column name="image">edt69/images/21_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/lKlChTbS#0f58vnuc-MCpDwut6vShXFwnJGomOPkwQ5dnjbmhg8M</column>
+        <column name="image">edt69/images/21_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/CWgxVYSY#UtOAYyN-GQYOD-4HbQWRw-xtad4S1R-K0mJRH4tk3fo</column>
+        <column name="image">edt69/images/21_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/rLhHWKZI#HTS5SOuHJLuFpwLCXxA3Jir8mlOv2iM3TXxqtV8IWNA</column>
+        <column name="image">edt69/images/21_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/2b43AK6T#AnJMSoEG7gYnEBy8oIOLDASQJWfMgGGJaBNuVFEyyv4</column>
+        <column name="image">edt69/images/21_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/HbpxGIbR#3TdRf_3NEfYcjFVcuISTUqUcPVScFLlZ3VZhUUsQSMA</column>
+        <column name="image">edt69/images/21_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/nLohka7J#8_hTcvHciYCePIYSaLgCPPVQIhlBAaYTenH3Wi3Ee54</column>
+        <column name="image">edt69/images/21_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/JfsW1SSK#LXZWdMV85nqHo5yMF-YCTQhd644hJxLmR44N8JVntVM</column>
+        <column name="image">edt69/images/21_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/iD5nxADA#SZq4m8_DCYexORku37F17np_-5hswwaI970F1v-Xtz4</column>
+        <column name="image">edt69/images/21_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">13</column>
+        <column name="url">https://mega.nz/embed/OP5H0C4L#4jEunnW_BjI_xN9ZaOXq6ooNGw6sR3LMMzNV6Ofs7CM</column>
+        <column name="image">edt69/images/21_13.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">14</column>
+        <column name="url">https://mega.nz/embed/LXwXiKaQ#DJ7zs18vH1pEn5ICTDsyCS3pn6KhDl06iBPkMIPfFjQ</column>
+        <column name="image">edt69/images/21_14.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">15</column>
+        <column name="url">https://mega.nz/embed/LD4xiIrR#h7cussSRfM6GQHtxEGF9R8Wh4hTEZ0Fl9XkU7W6Ya80</column>
+        <column name="image">edt69/images/21_15.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">16</column>
+        <column name="url">https://mega.nz/embed/9ac3zZqA#abOf5eOTXshuza48n8waW1Vz_98hf15_r8OWRVsTWMk</column>
+        <column name="image">edt69/images/21_16.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">17</column>
+        <column name="url">https://mega.nz/embed/SHxH2K4S#wZOaWFXGkGkjSvV7iWDb3mnrUGsSt1cRkSVcN1j7Puc</column>
+        <column name="image">edt69/images/21_17.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">18</column>
+        <column name="url">https://mega.nz/embed/vCpx1ACR#tM3QluzxXMYinVIFj-wR8_oCncGEa5M1ukFIOoiSHNE</column>
+        <column name="image">edt69/images/21_18.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">19</column>
+        <column name="url">https://mega.nz/embed/jC4VAaiY#YPasVym5AIOhIjLuAzwfxiNZ5IX5JihgB9luxsqBm5M</column>
+        <column name="image">edt69/images/21_19.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">20</column>
+        <column name="url">https://mega.nz/embed/OTxXQAyQ#NIsdZMc8_MakmTX99gJhReVxT1sjwj_pHVMxNIny5o8</column>
+        <column name="image">edt69/images/21_20.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">21</column>
+        <column name="url">https://mega.nz/embed/uOhnFCBS#FcHLsfAmI78QyF4B8I6IKCvNiEhD670U9bN1H2Jgt-o</column>
+        <column name="image">edt69/images/21_21.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">22</column>
+        <column name="url">https://mega.nz/embed/PSpnwAhR#vAp4neHvE-E_T4pke69GIpNjdapuyz9Wi8wGXyJNOfo</column>
+        <column name="image">edt69/images/21_22.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">23</column>
+        <column name="url">https://mega.nz/embed/jWpXiAjC#HiSTDImocEAuebrVQEZTrpnQU59vzYGDt4FBwuoJOho</column>
+        <column name="image">edt69/images/21_23.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">24</column>
+        <column name="url">https://mega.nz/embed/Re8QBThI#AX7WqpP9gyuU-ZWFtnW5swC62lnVQSuE7YFpDYndG1A</column>
+        <column name="image">edt69/images/21_24.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">21</column>
+        <column name="episode">25</column>
+        <column name="url">https://mega.nz/embed/aGpz1YoB#9V9b3Zz6VsjcrVa8AtE9S8gz4eprSGWnLO1HFtPW0a0</column>
+        <column name="image">edt69/images/21_25.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/ibIgUBbJ#g1BLRDnDAIG3ag1yzO7opW8UbPBwrmM5J0-FIuqXuyg</column>
+        <column name="image">edt69/images/6_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/qTZ20LwY#_fnGGyJ8_diGQUVpmyRfwgfZvE61eWcjDiNKXJJtW74</column>
+        <column name="image">edt69/images/6_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/nbAEhLiL#SQQoQI1-jScYDZhNiD1phDeP2ThSALWt6uvDwPe4tX0</column>
+        <column name="image">edt69/images/6_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/KHRAmD7T#N7_VA1fS3XstTcY99OtLIcKVG_dRt6fp-80zGXZGOuo</column>
+        <column name="image">edt69/images/6_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/jbBQlJ6I#IrsDJwKdXLxyfPkEN559jPKae1_yL-7WoxN7F-0owx8</column>
+        <column name="image">edt69/images/6_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/2CZ0CbhT#55LxyZ0RXZ85Oz4rehCKbnXMAoIrShtZTkEVTuHb-qE</column>
+        <column name="image">edt69/images/6_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/OLZSlDjb#ZqYlfNzC7gn5hNEAqkWzJDpOcIzKgRI0bKMBdxv8HE4</column>
+        <column name="image">edt69/images/6_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/nfBinDqI#uIZp51JzS31TNvNuCQjASeKo2D-ycPpBjI85ILVWT_A</column>
+        <column name="image">edt69/images/6_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/XLIElL6B#Av_7yyjthfx5WZuzlu2J4CPBJ6NUJ29TaY3L_qpmBnM</column>
+        <column name="image">edt69/images/6_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/jOJCkbhb#gYHd0qWP8BwVBU9PkndJv9aGPDo8A9vzUd-FH9DkmoI</column>
+        <column name="image">edt69/images/6_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/iLQmzLDY#xF1XPCGohSyNbxzo-4_0xzxBGJGYOY5w6G-Yv-qOBBg</column>
+        <column name="image">edt69/images/6_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">6</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/XCASADTJ#A1ZGLBmYw24_e4s_2YJCMz-WoPypHCBdIJ3AUWYA7A4</column>
+        <column name="image">edt69/images/6_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">1</column>
+        <column name="url">https://www.youtube.com/embed/0tvC2iauh0U?si=HEFFE0UFzCt3W42M</column>
+        <column name="image">edt69/images/22_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">2</column>
+        <column name="url">https://www.youtube.com/embed/ibkhAR73_kw?si=nM9E072JrDKwE-EG</column>
+        <column name="image">edt69/images/22_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">3</column>
+        <column name="url">https://www.youtube.com/embed/EklWJR3FGHU?si=qv7ku0ERn4eviRBU</column>
+        <column name="image">edt69/images/22_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">4</column>
+        <column name="url">https://www.youtube.com/embed/sXd77OXtCUQ?si=ES2pmD_dvYDyi9Jc</column>
+        <column name="image">edt69/images/22_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">5</column>
+        <column name="url">https://www.youtube.com/embed/ltg2kZcgmJI?si=6TXPauJFLN6FZooz</column>
+        <column name="image">edt69/images/22_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/VLFgTQBZ#4SVgs9TQBkcQ2BY18TR1rHh77UqvBbwWG-vJakTRHhc</column>
+        <column name="image">edt69/images/22_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/hKkzVaiD#NphlLh-zjPO8iADX_Z2Xlodw86pZ2GVok0jaFKO1Bxs</column>
+        <column name="image">edt69/images/22_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/5LtgybQK#pLkfU_uEMrLuhJ54gFRTKpEFTIHnQEyB8yaLXi-BkpY</column>
+        <column name="image">edt69/images/22_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/ta9WCKDT#aZKd6FcCTT5iHH3M3EtF4vNOisPYTniL4OG5tH2aAqE</column>
+        <column name="image">edt69/images/22_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/RDlWVIJS#AOhixISSXwvkeu6cf7Jpf-bx9cgYUWj5fWx--zufllU</column>
+        <column name="image">edt69/images/22_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/gDMUEAgA#W-4-eWG_A6rx6AFK9DtAuH6KTdhZJdDBkL8oVd-OJbA</column>
+        <column name="image">edt69/images/22_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">22</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/BT8BHJ7Q#g0plaVjLXLYzd21B-7uwTxA2esSwtReo0humBixZLt4</column>
+        <column name="image">edt69/images/22_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/soFg3L7I#7DwaZMQnJm2huYn7dh_aWiuBUAyQB5ro5lEoISOF2gE</column>
+        <column name="image">edt69/images/23_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/RMhTBDKQ#xyS_hmpRWOWonLkgqV78GB6-9BbmjyF72dOjtykUIAU</column>
+        <column name="image">edt69/images/23_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/ddIkmb4L#QbjSJiul9zWGSqIa3IzjDJ9H-B3W9GilNiYO1j2TsQo</column>
+        <column name="image">edt69/images/23_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/NYYHmR4a#OmCHHgNW3tr7wi_xgvIm4sQoG175b7xvAbLmjJ-Viks</column>
+        <column name="image">edt69/images/23_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/EVogCARA#hQYGJRcbFsWLiSnATiVTFzLTdV03uQKzU_Qclpacq0Q</column>
+        <column name="image">edt69/images/23_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">23</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/MBZTWIIa#0d2kAssggWhM2REsppinc18xehF1a40ddMsbPxT_oqQ</column>
+        <column name="image">edt69/images/23_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/UO1mTSpa#eEDVznzWpffu119z9yqkc6K1bhm-tKtRz81sSAQkdq8</column>
+        <column name="image">edt69/images/26_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/xa8hyZSA#pb2ro-liZtPai47AJfGrcdLEDZuMdfoxPwhSRhxfmrI</column>
+        <column name="image">edt69/images/26_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/YL9g0Q6a#KVPVjFNgf_1ZEOTtlmchfpWQpwvc8GeuJcGEoxiORFA</column>
+        <column name="image">edt69/images/26_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/BXFWyACI#MFzFDKhp87CFExE1wIBA2fn5854BSYXGsMj2PhsZiAw</column>
+        <column name="image">edt69/images/26_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/MetEkBIS#NJEBkFeFyWpRMza_Tr9WrPEaVDmVMIWl8kVe0PqmCG0</column>
+        <column name="image">edt69/images/26_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/tHViXS5S#-SWuJCIgN5fD0QSzcjKB28k9wt0Vuln-WWrQVDzzF1M</column>
+        <column name="image">edt69/images/26_06.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">7</column>
+        <column name="url">https://mega.nz/embed/IDkHCbTK#04r7Efop0ztBh2nGtwZe-oyCwhmo4MjSEV3-B-qBK_s</column>
+        <column name="image">edt69/images/26_07.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">8</column>
+        <column name="url">https://mega.nz/embed/ob1XFKyS#jhVd4QZ-_JAZq6nrZxHXBm2eUfbKIkmeYvUUiKkS3_o</column>
+        <column name="image">edt69/images/26_08.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">9</column>
+        <column name="url">https://mega.nz/embed/Mfd2jbDJ#uQgaNW_RGHgnKCU2V1BuokiHruZcccQ95pakCs-AWh4</column>
+        <column name="image">edt69/images/26_09.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">10</column>
+        <column name="url">https://mega.nz/embed/ZWMhEZyJ#_OkMmB_0-rdK6dTTt1bUqtimmfBEBn1lZvBK-sp3d3E</column>
+        <column name="image">edt69/images/26_10.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">11</column>
+        <column name="url">https://mega.nz/embed/EPlyAb5T#w7AT5gAt0qNV-7mN8c0raN3pMIGH3Oq5JMWNjpq5VP8</column>
+        <column name="image">edt69/images/26_11.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">26</column>
+        <column name="episode">12</column>
+        <column name="url">https://mega.nz/embed/EXtjHDRa#XfwXZpfZaGGHXRGz6Co206DAu4bsr_lGVypSocgqRFg</column>
+        <column name="image">edt69/images/26_12.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">1</column>
+        <column name="url">https://mega.nz/embed/7uYjmCAB#989X9J_khCtWefvqd735EMXPnieA5qmSfxF4oFd8jtQ</column>
+        <column name="image">edt69/images/27_01.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">2</column>
+        <column name="url">https://mega.nz/embed/KzYT1IxA#41Qx5P6gCZE9rSOXwh8CvC76-ns2FkOKczHTa2n-aOY</column>
+        <column name="image">edt69/images/27_02.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">3</column>
+        <column name="url">https://mega.nz/embed/v7RznQyD#q-wHOiKx7GDTwGdMmLi2boTZoN2PVd28iKHLVE8AFF8</column>
+        <column name="image">edt69/images/27_03.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">4</column>
+        <column name="url">https://mega.nz/embed/y3BXkIqD#3zOYFfnKtsLLl6qw0j8MJ3mqBxeoNKNfSe-iiSzLMaU</column>
+        <column name="image">edt69/images/27_04.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">5</column>
+        <column name="url">https://mega.nz/embed/vzJzVYQR#DLdC65ja_yituepPA7EUtULSPfid47ym1Wmra6jeADI</column>
+        <column name="image">edt69/images/27_05.jpg</column>
+    </table>
+    <table name="videos">
+        <column name="idanime">27</column>
+        <column name="episode">6</column>
+        <column name="url">https://mega.nz/embed/u3Q1FAJY#1vuqBWJt5PqJNcz6dje8wkcmRgaNqlNJA_q4Fa-pRMQ</column>
+        <column name="image">edt69/images/27_06.jpg</column>
+    </table>
+</database>
